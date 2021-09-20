@@ -1,7 +1,4 @@
-# Melbourne City Council API Token
-MyAppToken = "INSERT TOKEN HERE!"
-
-# Google Maps Api
-google_key = "INSERT API KEY HERE!"
+# Google API Key
+google_key = "Insert here!"
 
 #New Message 1
