@@ -17,7 +17,7 @@ If this is your first time using any of the City of Melbourne APIs, please follo
 
 2) Visit this [link](https://data.melbourne.vic.gov.au/login) to sign in (if necessary).
 
-3) Go to this [link](https://data.melbourne.vic.gov.au/profile/edit/developer_settings) and click **Create New App Token**
+3) Go to this [link](https://data.melbourne.vic.gov.au/profile/edit/developer_settings) and click **Create New App Token**.
 
 ![alt text](https://github.com/James-Akerman/project-one/blob/main/Readme%20images/get%20app%20token.PNG "Create New App Token")
 
@@ -27,7 +27,7 @@ If this is your first time using any of the City of Melbourne APIs, please follo
 
 **Hypothesis One:** The overall pedestrian activity in the City of Melbourne had decreased since March 2020 when the first lockdown happened in Melbourne.
 
-The **data exploration** and **data analysis** is reported in **Hypotheses 1 - Prabh_analysis.ipynb**
+The **data exploration** and **data analysis** is reported in **Hypotheses 1 - Prabh_analysis.ipynb**.
 
 Results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
 
