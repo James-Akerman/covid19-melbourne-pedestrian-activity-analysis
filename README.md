@@ -6,7 +6,7 @@ Each hypothesis is addressed in a different folder.
 Data Analysis files are stored in each folder for hypothesis related statistical and visual analysis.
 
 
-### Hypotheses 3 and 4
+### Directory: Hypotheses 3 and 4
 #### Step 1: Modify the "api_keys_tokens.py" file
 
 ##### Google Maps API Key
