@@ -20,7 +20,7 @@ If this is your first time using any of the City of Melbourne APIs, please follo
 
 ![alt text](https://github.com/James-Akerman/project-one/blob/main/Readme%20images/get%20app%20token.PNG "Create New App Token")
 
- 
+4) Copy your app token
 
 ## Step 1: Go inside the Hypothesis 1
 
@@ -46,7 +46,7 @@ For **data analysis** with illustrations and stats, the report is in **Hypothese
 
 1) Run the "data_exploration.ipynb" file
 
-2) Run the "DataAnalysis.ipynb" fule
+2) Run the "DataAnalysis.ipynb" fule**
 
 
 
@@ -55,7 +55,6 @@ For **data analysis** with illustrations and stats, the report is in **Hypothese
 **Hypothesis Three:** Pedestrian activity would increase as JobKeeper claims increased.
 **Hypothesis Four:** Pedestrian activity would decrease after JobKeeper was tapered.
 
-4) Copy your app token
 
 #### 2) Run the "Hypotheses 3 and 4 - Data Wrangling.ipynb" file
 
