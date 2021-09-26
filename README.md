@@ -25,7 +25,7 @@ Step 2: Visit this [link](https://data.melbourne.vic.gov.au/login) to sign in (i
 
 Step 3: Go to this [link](https://data.melbourne.vic.gov.au/profile/edit/developer_settings)
 
-###Hypothesis 2 and 5
+### Hypothesis 2 and 5
 **Hypothesis Two:** Pedestrian activity had increased after the first lockdown, but not to pre-pandemic levels (average of August 2019 to February 2020).
 
 **Hypothesis Five: **Pedestrian activity increases as the number of Victorian full-time workers increases.
