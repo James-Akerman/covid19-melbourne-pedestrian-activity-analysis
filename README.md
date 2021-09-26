@@ -6,7 +6,7 @@ Update the variables **MyAppToken** and **google_key** by following the instruct
 
 ##### Google Maps API Key
 Insert your Google Maps API key in here.
-If you require instructions for setting up a Google Maps API key, please watch this [video](https://www.youtube.com/watch?v=2_HZObVbe-g&t=10s) or reading this [documentation](https://developers.google.com/maps/documentation/javascript/get-api-key)
+If you require instructions for setting up a Google Maps API key, please watch this [video](https://www.youtube.com/watch?v=2_HZObVbe-g&t=10s) or reading this [documentation](https://developers.google.com/maps/documentation/javascript/get-api-key).
 
 ##### MyAppToken
 Insert your app token provided to you by the City of Melbourne here.
@@ -21,7 +21,7 @@ If this is your first time using any of the City of Melbourne APIs, please follo
 
 ![alt text](https://github.com/James-Akerman/project-one/blob/main/Readme%20images/get%20app%20token.PNG "Create New App Token")
 
-4) Copy your app token
+4) Copy your app token.
 
 ## Step 2: Go inside the *Hypothesis 1* folder
 
@@ -32,7 +32,7 @@ The **data exploration** and **data analysis** is reported in **Hypotheses 1 - P
 Results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
 
 
-1) Run the "Prabh_analysis.ipynb" file
+1) Run the "Prabh_analysis.ipynb" file.
 
 
 ## Step 3: Go inside the *Hypothesis 2 and 5* folder
@@ -46,9 +46,9 @@ The **data exploration** and wrangling process is reported in **Hypotheses 2 and
 
 For **data analysis** with illustrations and stats, the report is in **Hypotheses 2 and 5 - DataAnalysis.ipynb**
 
-1) Run the "data_exploration.ipynb" file
+1) Run the "data_exploration.ipynb" file.
 
-2) Run the "DataAnalysis.ipynb" file
+2) Run the "DataAnalysis.ipynb" file.
 
 
 
@@ -58,7 +58,7 @@ For **data analysis** with illustrations and stats, the report is in **Hypothese
 **Hypothesis Four:** Pedestrian activity would decrease after JobKeeper was tapered.
 
 
-1) Run the "Hypotheses 3 and 4 - Data Wrangling.ipynb" file
+1) Run the "Hypotheses 3 and 4 - Data Wrangling.ipynb" file.
 
-2) Run the "Hypotheses 3 and 4 - Analysis.ipynb" file
+2) Run the "Hypotheses 3 and 4 - Analysis.ipynb" file.
 
