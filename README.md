@@ -1,5 +1,5 @@
 # Pedestrian activity in the City of Melbourne before and during COVID-19
- Please run the code in the following order
+ Please run the code in the following order.
  
 ## Step 1: Modify the "api_keys_tokens.py" file in the *Hypotheses 3 and 4* folder
 Update the variables **MyAppToken** and **google_key** by following the instructions below.
