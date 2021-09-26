@@ -1,7 +1,7 @@
 # Pedestrian activity in the City of Melbourne before and during COVID-19
  Please run the code in the following order
  
- #### 1) Modify the "api_keys_tokens.py" file
+ #### 1) Modify the "api_keys_tokens.py" file in the Hypotheses 3 and 4 Folder
 
 ##### Google Maps API Key
 Insert your Google Maps API key in here.
@@ -26,7 +26,7 @@ If this is your first time using any of the City of Melbourne APIs, please follo
 
 **Hypothesis One:** The overall pedestrian activity in the City of Melbourne had decreased since March 2020 when the first lockdown happened in Melbourne.
 
-The **data exploration** and **data analysis **is reported in **Hypotheses 1 - Prabh_analysis.ipynb**
+The **data exploration** and **data analysis ** is reported in **Hypotheses 1 - Prabh_analysis.ipynb**
 Results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
 
 
@@ -41,6 +41,7 @@ Results are exported to the folder 'Hypothesis1/Analysis' which includes csv and
 
 The **data exploration** and wrangling process is reported in **Hypotheses 2 and 5 - data_exploration.ipynb**
 - Data Frames needed for Data Analysis have been locally stored in .csv format also to avoid dependency on API keys.
+- 
 For **data analysis** with illustrations and stats, the report is in **Hypotheses 2 and 5 - DataAnalysis.ipynb**
 
 1) Run the "data_exploration.ipynb" file
