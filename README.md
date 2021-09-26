@@ -1,15 +1,19 @@
 # Pedestrian activity in the City of Melbourne before and during COVID-19
  Please run the code in the following order
  
-## Step 1: Go inside the Hypothesis 1 folder
+## Go inside the Hypothesis 1 folder
 ### Hypothesis 1
 
 All the data required to find hypothesis 1 is in the folder'Hypothesis1/Resources'
 run the file Prabh_analysis.ipynb in the 'Hypothesis1' folder as a jupyter notebook
 the results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
 
-## Step 2: Go inside the Hypotheses 3 and 4 folder
-#### Modify the "api_keys_tokens.py" file
+### 1) Run the file "Prabh_analysis.ipynb" as a jupyter notebook
+
+### 2) Go results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
+
+## Go inside the Hypotheses 3 and 4 folder
+#### 1) Modify the "api_keys_tokens.py" file
 
 ##### Google Maps API Key
 Insert your Google Maps API key in here.
@@ -31,21 +35,23 @@ If this is your first time using any of the City of Melbourne APIs, please follo
 
 4) Copy your app token
 
-#### Run the Hypotheses 3 and 4 - Data Wrangling.ipynb file
+#### 2) Run the "Hypotheses 3 and 4 - Data Wrangling.ipynb" file
 
-#### Run the Hypotheses 3 and 4 - Analysis.ipynb file
+#### 3) Run the "Hypotheses 3 and 4 - Analysis.ipynb" file
 
 ## Step 3: Go inside the Hypothesis 2 and 5 folder
 
-### Hypothesis 2 and 5
 **Hypothesis Two:** Pedestrian activity had increased after the first lockdown, but not to pre-pandemic levels (average of August 2019 to February 2020).
 
 **Hypothesis Five:** Pedestrian activity increases as the number of Victorian full-time workers increases.
 
-1) The **data exploration** and wrangling process is reported in **data_exploration.ipynb**
-Note:  Data Frames needed for Data Analysis have been locally stored in .csv format also to avoid dependency on API keys.
-2) For **data analysis** with illustrations and stats, the report is in **DataAnalysis.ipynb**
+The data exploration and wrangling process is reported in data_exploration.ipynb
+- Data Frames needed for Data Analysis have been locally stored in .csv format also to avoid dependency on API keys.
+For data analysis with illustrations and stats, the report is in DataAnalysis.ipynb
 
+### 1) Run the "data_exploration.ipynb" file
+
+### 2) Run the "DataAnalysis.ipynb" fule
 
 
 
