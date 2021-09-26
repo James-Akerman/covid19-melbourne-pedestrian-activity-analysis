@@ -1,16 +1,18 @@
 # Pedestrian activity in the City of Melbourne before and during COVID-19
  Please run the code in the following order
  
+ 
 ## Go inside the Hypothesis 1 folder
-### Hypothesis 1
+#### Hypothesis 1
 
 All the data required to find hypothesis 1 is in the folder'Hypothesis1/Resources'
 run the file Prabh_analysis.ipynb in the 'Hypothesis1' folder as a jupyter notebook
 the results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
 
-### 1) Run the file "Prabh_analysis.ipynb" as a jupyter notebook
+#### 1) Run the file "Prabh_analysis.ipynb" as a jupyter notebook
 
-### 2) Go results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
+#### 2) Go results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
+
 
 ## Go inside the Hypotheses 3 and 4 folder
 #### 1) Modify the "api_keys_tokens.py" file
@@ -18,7 +20,6 @@ the results are exported to the folder 'Hypothesis1/Analysis' which includes csv
 ##### Google Maps API Key
 Insert your Google Maps API key in here.
 If you require instructions for setting up a Google Maps API key, please watch this [video](https://www.youtube.com/watch?v=2_HZObVbe-g&t=10s) or reading this [documentation](https://developers.google.com/maps/documentation/javascript/get-api-key)
-
 
 ##### MyAppToken
 Insert your app token provided to you by the City of Melbourne here.
@@ -38,6 +39,7 @@ If this is your first time using any of the City of Melbourne APIs, please follo
 #### 2) Run the "Hypotheses 3 and 4 - Data Wrangling.ipynb" file
 
 #### 3) Run the "Hypotheses 3 and 4 - Analysis.ipynb" file
+
 
 ## Step 3: Go inside the Hypothesis 2 and 5 folder
 
