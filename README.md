@@ -16,9 +16,10 @@ If you require instructions for setting up a Google Maps API key, please watch t
 
 ##### MyAppToken
 Insert your app token provided to you by the City of Melbourne here.
+
 If this is your first time using any of the City of Melbourne APIs, please follow the following instructions for obtaining an App Token
-Step 1: Visit the website https://data.melbourne.vic.gov.au/signup and sign up to create an account.
-Step 2: Visit this link to sign in (if necessary) https://data.melbourne.vic.gov.au/login
+Step 1: Visit this [website](https://data.melbourne.vic.gov.au/signup) and sign up to create an account.
+Step 2: Visit this [link](https://data.melbourne.vic.gov.au/login) to sign in (if necessary).
 Step 3: 
 
 **Conclusion:**
