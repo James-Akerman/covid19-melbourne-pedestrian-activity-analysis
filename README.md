@@ -1,21 +1,7 @@
 # Pedestrian activity in the City of Melbourne before and during COVID-19
  Please run the code in the following order
  
- 
-## Go inside the Hypothesis 1 folder
-#### Hypothesis 1
-
-All the data required to find hypothesis 1 is in the folder'Hypothesis1/Resources'
-run the file Prabh_analysis.ipynb in the 'Hypothesis1' folder as a jupyter notebook
-the results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
-
-#### 1) Run the file "Prabh_analysis.ipynb" as a jupyter notebook
-
-#### 2) Go results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
-
-
-## Go inside the Hypotheses 3 and 4 folder
-#### 1) Modify the "api_keys_tokens.py" file
+ #### 1) Modify the "api_keys_tokens.py" file
 
 ##### Google Maps API Key
 Insert your Google Maps API key in here.
@@ -34,27 +20,43 @@ If this is your first time using any of the City of Melbourne APIs, please follo
 
 ![alt text](https://github.com/James-Akerman/project-one/blob/main/Readme%20images/get%20app%20token.PNG "Create New App Token")
 
-4) Copy your app token
+ 
 
-#### 2) Run the "Hypotheses 3 and 4 - Data Wrangling.ipynb" file
+## Step 1: Go inside the Hypothesis 1
 
-#### 3) Run the "Hypotheses 3 and 4 - Analysis.ipynb" file
+**Hypothesis One:** The overall pedestrian activity in the City of Melbourne had decreased since March 2020 when the first lockdown happened in Melbourne.
+
+The **data exploration** and **data analysis **is reported in **Hypotheses 1 - Prabh_analysis.ipynb**
+Results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
 
 
-## Step 3: Go inside the Hypothesis 2 and 5 folder
+1) Run the "Prabh_analysis.ipynb" file
+
+
+## Step 2: Go inside the Hypothesis 2 and 5 folder
 
 **Hypothesis Two:** Pedestrian activity had increased after the first lockdown, but not to pre-pandemic levels (average of August 2019 to February 2020).
 
 **Hypothesis Five:** Pedestrian activity increases as the number of Victorian full-time workers increases.
 
-The data exploration and wrangling process is reported in data_exploration.ipynb
+The **data exploration** and wrangling process is reported in **Hypotheses 2 and 5 - data_exploration.ipynb**
 - Data Frames needed for Data Analysis have been locally stored in .csv format also to avoid dependency on API keys.
-For data analysis with illustrations and stats, the report is in DataAnalysis.ipynb
+For **data analysis** with illustrations and stats, the report is in **Hypotheses 2 and 5 - DataAnalysis.ipynb**
 
-### 1) Run the "data_exploration.ipynb" file
+1) Run the "data_exploration.ipynb" file
 
-### 2) Run the "DataAnalysis.ipynb" fule
+2) Run the "DataAnalysis.ipynb" fule
 
 
 
+## Step 3: Go inside the Hypotheses 3 and 4
+
+**Hypothesis Three:** Pedestrian activity would increase as JobKeeper claims increased.
+**Hypothesis Four:** Pedestrian activity would decrease after JobKeeper was tapered.
+
+4) Copy your app token
+
+#### 2) Run the "Hypotheses 3 and 4 - Data Wrangling.ipynb" file
+
+#### 3) Run the "Hypotheses 3 and 4 - Analysis.ipynb" file
 
