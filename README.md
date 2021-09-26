@@ -23,7 +23,9 @@ Step 1: Visit this [website](https://data.melbourne.vic.gov.au/signup) and sign 
 
 Step 2: Visit this [link](https://data.melbourne.vic.gov.au/login) to sign in (if necessary).
 
-Step 3: Go to this [link](https://data.melbourne.vic.gov.au/profile/edit/developer_settings)
+Step 3: Go to this [link](https://data.melbourne.vic.gov.au/profile/edit/developer_settings) and click **Create New App Token**
+
+![alt text](https://github.com/James-Akerman/project-one/blob/main/Readme%20images/get%20app%20token.PNG "Create New App Token")
 
 ### Hypothesis 2 and 5
 **Hypothesis Two:** Pedestrian activity had increased after the first lockdown, but not to pre-pandemic levels (average of August 2019 to February 2020).
