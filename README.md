@@ -11,7 +11,7 @@ Data Analysis files are stored in each folder for hypothesis related statistical
 
 ##### Google Maps API Key
 Insert your Google Maps API key in here.
-If you require instructions for setting up a Google Maps API key, please watch the following video https://www.youtube.com/watch?v=2_HZObVbe-g&t=10s or read the following documentation https://developers.google.com/maps/documentation/javascript/get-api-key
+If you require instructions for setting up a Google Maps API key, please watch the following video https://www.youtube.com/watch?v=2_HZObVbe-g&t=10s or read the following documentation [I'm an inline-style link](https://developers.google.com/maps/documentation/javascript/get-api-key
 
 
 ##### MyAppToken
