@@ -42,9 +42,9 @@ If this is your first time using any of the City of Melbourne APIs, please follo
 
 **Hypothesis Five:** Pedestrian activity increases as the number of Victorian full-time workers increases.
 
-The data exploration and wrangling process is reported in data_exploration.ipynb
-- Data Frames needed for Data Analysis have been locally stored in .csv format also to avoid dependency on API keys.
-For data analysis with illustrations and stats, the report is in DataAnalysis.ipynb
+1) The data exploration and wrangling process is reported in data_exploration.ipynb
+Note:  Data Frames needed for Data Analysis have been locally stored in .csv format also to avoid dependency on API keys.
+2) For data analysis with illustrations and stats, the report is in DataAnalysis.ipynb
 
 
 
