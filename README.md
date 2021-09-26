@@ -2,6 +2,7 @@
  Please run the code in the following order
  
  #### 1) Modify the "api_keys_tokens.py" file in the Hypotheses 3 and 4 Folder
+Update the variables **MyAppToken** and **google_key** by following the instructions below.
 
 ##### Google Maps API Key
 Insert your Google Maps API key in here.
