@@ -1,4 +1,4 @@
-# Google API Key
+# Google Maps API Key
 google_key = "PLEASE INSERT API KEY HERE!"
 
 # City of Melbourne App Token
