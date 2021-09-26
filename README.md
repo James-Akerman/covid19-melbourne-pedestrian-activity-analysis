@@ -5,6 +5,22 @@ To avoid reliance on API key during key, dataframe copies have been stored in .c
 Each hypothesis is addressed in a different folder.
 Data Analysis files are stored in each folder for hypothesis related statistical and visual analysis.
 
+
+### Hypotheses 3 and 4
+#### Step 1: Modify the "api_keys_tokens.py" file
+
+##### Google Maps API Key
+Insert your Google Maps API key in here.
+If you require instructions for setting up a Google Maps API key, please watch the following video https://www.youtube.com/watch?v=2_HZObVbe-g&t=10s or read the following documentation https://developers.google.com/maps/documentation/javascript/get-api-key
+
+
+##### MyAppToken
+Insert your app token provided to you by the City of Melbourne here.
+If this is your first time using any of the City of Melbourne APIs, please follow the following instructions for obtaining an App Token
+Step 1: Visit the website https://data.melbourne.vic.gov.au/signup and sign up to create an account.
+Step 2: Visit this link to sign in (if necessary) https://data.melbourne.vic.gov.au/login
+Step 3: 
+
 **Conclusion:**
 
 There was an average drop of 87% in pedestrian activity at various locations in Melbourne during covid19.
