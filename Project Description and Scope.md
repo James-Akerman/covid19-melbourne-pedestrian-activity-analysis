@@ -22,3 +22,9 @@ From this base data, as well as data provided by labour force statistics from th
 - Hypothesis Three: Pedestrian activity would increase as JobKeeper claims increased.
 - Hypothesis Four: Pedestrian activity would decrease after JobKeeper was tapered.
 - Hypothesis Five: Pedestrian activity increases as the number of Victorian full-time workers increases.
+
+### References
+
+- City of Melbourne,*Pedestrian Counting System*, City of Melbourne, accessed 14 September 2021 <https://www.melbourne.vic.gov.au/about-melbourne/research-and-statistics/city-population/Pages/pedestrian-counting-system.aspx>
+
+- City of Melbourne,*Research shows CBD economy will bounce back*, City of Melbourne, accessed 16 September 2021 <https://www.melbourne.vic.gov.au/news-and-media/Pages/Research-shows-CBD-economy-will-bounce-back.aspx>
