@@ -55,6 +55,7 @@ For **data analysis** with illustrations and stats, the report is in **Hypothese
 ## Step 4: Go inside the *Hypotheses 3 and 4* folder
 
 **Hypothesis Three:** Pedestrian activity would increase as JobKeeper claims increased.
+
 **Hypothesis Four:** Pedestrian activity would decrease after JobKeeper was tapered.
 
 
