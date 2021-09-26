@@ -23,7 +23,7 @@ Step 1: Visit this [website](https://data.melbourne.vic.gov.au/signup) and sign 
 
 Step 2: Visit this [link](https://data.melbourne.vic.gov.au/login) to sign in (if necessary).
 
-Step 3: Click on your profile title
+Step 3: Go to this [link](https://data.melbourne.vic.gov.au/profile/edit/developer_settings)
 
 **Conclusion:**
 
