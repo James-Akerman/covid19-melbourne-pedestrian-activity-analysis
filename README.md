@@ -1,13 +1,8 @@
 # Pedestrian activity in the City of Melbourne before and during COVID-19
  Please run the code in the following order
 
-To avoid reliance on API key during key, dataframe copies have been stored in .csv files.
-Each hypothesis is addressed in a different folder.
-Data Analysis files are stored in each folder for hypothesis related statistical and visual analysis.
-
-
-### Next Go inside the directory Hypotheses 3 and 4
-#### Step 1: Modify the "api_keys_tokens.py" file
+# Step 2: Go inside the directory Hypotheses 3 and 4
+#### Modify the "api_keys_tokens.py" file
 
 ##### Google Maps API Key
 Insert your Google Maps API key in here.
@@ -29,9 +24,9 @@ If this is your first time using any of the City of Melbourne APIs, please follo
 
 4) Copy your app token
 
-#### Step 2: Run the Hypotheses 3 and 4 - Data Wrangling.ipynb file
+#### Run the Hypotheses 3 and 4 - Data Wrangling.ipynb file
 
-#### Step 3: Run the Hypotheses 3 and 4 - Analysis.ipynb file
+#### Run the Hypotheses 3 and 4 - Analysis.ipynb file
 
 ### Hypothesis 2 and 5
 **Hypothesis Two:** Pedestrian activity had increased after the first lockdown, but not to pre-pandemic levels (average of August 2019 to February 2020).
