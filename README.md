@@ -27,7 +27,7 @@ If this is your first time using any of the City of Melbourne APIs, please follo
 
 **Hypothesis One:** The overall pedestrian activity in the City of Melbourne had decreased since March 2020 when the first lockdown happened in Melbourne.
 
-The **data exploration** and **data analysis ** is reported in **Hypotheses 1 - Prabh_analysis.ipynb**
+The **data exploration** and **data analysis** is reported in **Hypotheses 1 - Prabh_analysis.ipynb**
 Results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
 
 
@@ -57,7 +57,7 @@ For **data analysis** with illustrations and stats, the report is in **Hypothese
 **Hypothesis Four:** Pedestrian activity would decrease after JobKeeper was tapered.
 
 
-#### 1) Run the "Hypotheses 3 and 4 - Data Wrangling.ipynb" file
+1) Run the "Hypotheses 3 and 4 - Data Wrangling.ipynb" file
 
-#### 2) Run the "Hypotheses 3 and 4 - Analysis.ipynb" file
+2) Run the "Hypotheses 3 and 4 - Analysis.ipynb" file
 
