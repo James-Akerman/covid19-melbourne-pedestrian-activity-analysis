@@ -4,6 +4,11 @@
 To avoid reliance on API key during key, dataframe copies have been stored in .csv files.
 Each hypothesis is addressed in a different folder.
 Data Analysis files are stored in each folder for hypothesis related statistical and visual analysis.
+### Hypothesis 1
+
+All the data required to find hypothesis 1 is in the folder'Hypothesis1/Resources'
+run the file Prabh_analysis.ipynb in the 'Hypothesis1' folder as a jupyter notebook
+the results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
 
 
 ### Hypotheses 3 and 4
