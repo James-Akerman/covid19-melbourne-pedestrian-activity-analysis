@@ -1,7 +1,7 @@
 # Pedestrian activity in the City of Melbourne before and during COVID-19
  Please run the code in the following order
  
- #### 1) Modify the "api_keys_tokens.py" file in the Hypotheses 3 and 4 Folder
+## Step 1: Modify the "api_keys_tokens.py" file in the Hypotheses 3 and 4 Folder
 Update the variables **MyAppToken** and **google_key** by following the instructions below.
 
 ##### Google Maps API Key
@@ -23,7 +23,7 @@ If this is your first time using any of the City of Melbourne APIs, please follo
 
 4) Copy your app token
 
-## Step 1: Go inside the Hypothesis 1
+## Step 2: Go inside the Hypothesis 1 folder
 
 **Hypothesis One:** The overall pedestrian activity in the City of Melbourne had decreased since March 2020 when the first lockdown happened in Melbourne.
 
@@ -34,7 +34,7 @@ Results are exported to the folder 'Hypothesis1/Analysis' which includes csv and
 1) Run the "Prabh_analysis.ipynb" file
 
 
-## Step 2: Go inside the Hypothesis 2 and 5 folder
+## Step 3: Go inside the Hypothesis 2 and 5 folder
 
 **Hypothesis Two:** Pedestrian activity had increased after the first lockdown, but not to pre-pandemic levels (average of August 2019 to February 2020).
 
@@ -51,7 +51,7 @@ For **data analysis** with illustrations and stats, the report is in **Hypothese
 
 
 
-## Step 3: Go inside the Hypotheses 3 and 4
+## Step 4: Go inside the Hypotheses 3 and 4 folder
 
 **Hypothesis Three:** Pedestrian activity would increase as JobKeeper claims increased.
 **Hypothesis Four:** Pedestrian activity would decrease after JobKeeper was tapered.
