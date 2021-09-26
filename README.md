@@ -37,10 +37,14 @@ Results are exported to the folder 'Hypothesis1/Analysis' which includes csv and
 
 ## Step 3: Go inside the *Hypothesis 2 and 5* folder
 
+
 **Hypothesis Two:** Pedestrian activity had increased after the first lockdown, but not to pre-pandemic levels (average of August 2019 to February 2020).
 
 **Hypothesis Five:** Pedestrian activity increases as the number of Victorian full-time workers increases.
 
+### If **API key is available**, add a keys.py file with api_keys variable to represent it and run the following file:
+**DataGatheringViaAPI.ipynb**
+### else, run the following scripts:
 The **data exploration** and wrangling process is reported in **Hypotheses 2 and 5 - data_exploration.ipynb**
 - Data Frames needed for Data Analysis have been locally stored in .csv format also to avoid dependency on API keys.
 
