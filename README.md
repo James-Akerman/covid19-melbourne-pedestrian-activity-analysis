@@ -30,6 +30,16 @@ Step 2: Visit this [link](https://data.melbourne.vic.gov.au/login) to sign in (i
 
 Step 3: Go to this [link](https://data.melbourne.vic.gov.au/profile/edit/developer_settings)
 
+### Hypothesis 2 and 5
+**Hypothesis Two:** Pedestrian activity had increased after the first lockdown, but not to pre-pandemic levels (average of August 2019 to February 2020).
+
+**Hypothesis Five:** Pedestrian activity increases as the number of Victorian full-time workers increases.
+
+The data exploration and wrangling process is reported in data_exploration.ipynb
+- Data Frames needed for Data Analysis have been locally stored in .csv format also to avoid dependency on API keys.
+For data analysis with illustrations and stats, the report is in DataAnalysis.ipynb
+
+
 **Conclusion:**
 
 There was an average drop of 87% in pedestrian activity at various locations in Melbourne during covid19.
