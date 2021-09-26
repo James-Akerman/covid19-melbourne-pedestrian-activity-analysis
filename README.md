@@ -2,6 +2,11 @@
  Please run the code in the following order
  
 ## Step 1: Go inside the Hypothesis 1 folder
+### Hypothesis 1
+
+All the data required to find hypothesis 1 is in the folder'Hypothesis1/Resources'
+run the file Prabh_analysis.ipynb in the 'Hypothesis1' folder as a jupyter notebook
+the results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
 
 ## Step 2: Go inside the Hypotheses 3 and 4 folder
 #### Modify the "api_keys_tokens.py" file
