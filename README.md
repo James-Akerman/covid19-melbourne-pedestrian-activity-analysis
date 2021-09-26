@@ -19,13 +19,19 @@ Insert your app token provided to you by the City of Melbourne here.
 
 If this is your first time using any of the City of Melbourne APIs, please follow the following instructions for obtaining an App Token.
 
-Step 1: Visit this [website](https://data.melbourne.vic.gov.au/signup) and sign up to create an account.
+1) Visit this [website](https://data.melbourne.vic.gov.au/signup) and sign up to create an account.
 
-Step 2: Visit this [link](https://data.melbourne.vic.gov.au/login) to sign in (if necessary).
+2) Visit this [link](https://data.melbourne.vic.gov.au/login) to sign in (if necessary).
 
-Step 3: Go to this [link](https://data.melbourne.vic.gov.au/profile/edit/developer_settings) and click **Create New App Token**
+3) Go to this [link](https://data.melbourne.vic.gov.au/profile/edit/developer_settings) and click **Create New App Token**
 
 ![alt text](https://github.com/James-Akerman/project-one/blob/main/Readme%20images/get%20app%20token.PNG "Create New App Token")
+
+4) Copy your app token
+
+#### Step 2: Run the Hypotheses 3 and 4 - Data Wrangling.ipynb file
+
+#### Step 3: Run the Hypotheses 3 and 4 - Analysis.ipynb file
 
 ### Hypothesis 2 and 5
 **Hypothesis Two:** Pedestrian activity had increased after the first lockdown, but not to pre-pandemic levels (average of August 2019 to February 2020).
