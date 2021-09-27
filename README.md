@@ -6,7 +6,7 @@ Update the variables **MyAppToken** and **google_key** by following the instruct
 
 ##### google_key
 Insert your Google Maps API key in here.
-If you require instructions for setting up a Google Maps API key, please watch this [video](https://www.youtube.com/watch?v=2_HZObVbe-g&t=10s) or reading this [documentation](https://developers.google.com/maps/documentation/javascript/get-api-key).
+If you require instructions for setting up a Google Maps API key, please watch this [video](https://www.youtube.com/watch?v=2_HZObVbe-g&t=10s) or read this [documentation](https://developers.google.com/maps/documentation/javascript/get-api-key).
 
 ##### MyAppToken
 Insert your app token provided to you by the City of Melbourne here.
