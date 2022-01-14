@@ -32,6 +32,9 @@ From this base data, as well as data provided by labour force statistics from th
 ## Tools/Packages Used
 - Pandas
 - Matplotlib
+- Scipy
+- Google Maps API
+- City of Melbourne API
 
 
 ## How to use
