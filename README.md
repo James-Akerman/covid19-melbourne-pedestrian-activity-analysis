@@ -78,7 +78,7 @@ Results are exported to the folder 'Hypothesis1/Analysis' which includes csv and
 **DataGatheringViaAPI.ipynb**
 #### else, run the following scripts:
 - The **data exploration** and wrangling process is reported in **Hypotheses 2 and 5 - data_exploration.ipynb**
- - Data Frames needed for Data Analysis have been locally stored in .csv format also to avoid dependency on API keys.
+  - Data Frames needed for Data Analysis have been locally stored in .csv format also to avoid dependency on API keys.
 
 For **data analysis** with illustrations and stats, the report is in **Hypotheses 2 and 5 - DataAnalysis.ipynb**
 
