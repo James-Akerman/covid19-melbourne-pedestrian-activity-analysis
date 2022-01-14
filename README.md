@@ -33,8 +33,8 @@ From this base data, as well as data provided by labour force statistics from th
 - Pandas
 - Matplotlib
 - Scipy
-- Google Maps API
-- City of Melbourne API
+- Gmaps
+- Sodapy
 
 
 ## How to use
