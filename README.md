@@ -1,5 +1,4 @@
 # Pedestrian activity in the City of Melbourne before and during COVID-19
-## Introduction and Research Background
 ### Pedestrian Counting System Background
 The City of Melbourne is the local council which oversees what many would consider to be the heart of Melbourne. It spans a wide area range from the postcodes of Port Melbourne to Flemington, Carlton, and South Yarra. It contains several of Melbourne's most important landmarks such as the Royal Botanical Gardens as well as important areas of economic activity like the Melbourne CBD.
 
