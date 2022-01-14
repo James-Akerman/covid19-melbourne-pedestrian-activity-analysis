@@ -62,8 +62,6 @@ If this is your first time using any of the City of Melbourne APIs, please follo
 
 ### Step 2: Go inside the *Hypothesis 1* folder
 
-**Hypothesis One:** The overall pedestrian activity in the City of Melbourne had decreased since March 2020 when the first lockdown happened in Melbourne.
-
 The **data exploration** and **data analysis** is reported in **Hypotheses 1 - Prabh_analysis.ipynb**.
 
 Results are exported to the folder 'Hypothesis1/Analysis' which includes csv and png files.
@@ -73,12 +71,6 @@ Results are exported to the folder 'Hypothesis1/Analysis' which includes csv and
 
 
 ### Step 3: Go inside the *Hypothesis 2 and 5* folder
-
-
-**Hypothesis Two:** Pedestrian activity had increased after the first lockdown, but not to pre-pandemic levels (average of August 2019 to February 2020).
-
-**Hypothesis Five:** Pedestrian activity increases as the number of Victorian full-time workers increases.
-
 #### If **API key is available**, 
 add a keys.py file with api_keys variable and run the following file:
 **DataGatheringViaAPI.ipynb**
@@ -95,12 +87,6 @@ For **data analysis** with illustrations and stats, the report is in **Hypothese
 
 
 ### Step 4: Go inside the *Hypotheses 3 and 4* folder
-
-**Hypothesis Three:** Pedestrian activity would increase as JobKeeper claims increased.
-
-**Hypothesis Four:** Pedestrian activity would decrease after JobKeeper was tapered.
-
-
 1) Run the "Hypotheses 3 and 4 - Data Wrangling.ipynb" file.
 
 2) Run the "Hypotheses 3 and 4 - Analysis.ipynb" file.
