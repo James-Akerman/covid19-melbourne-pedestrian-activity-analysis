@@ -1,7 +1,7 @@
 
 ## Introduction and Research Background
 ### Pedestrian Counting System Background
-The City of Melbourne is the local council which overseas what many would consider to be the heart of Melbourne. It spans a wide area range from the postcodes of Port Melbourne to Flemington, Carlton, and South Yarra. It contains several of Melbourne's most important landmarks such as the Royal Botanical Gardens as well as important areas of economic activity like the Melbourne CBD.
+The City of Melbourne is the local council which oversees what many would consider to be the heart of Melbourne. It spans a wide area range from the postcodes of Port Melbourne to Flemington, Carlton, and South Yarra. It contains several of Melbourne's most important landmarks such as the Royal Botanical Gardens as well as important areas of economic activity like the Melbourne CBD.
 
 With so much going on in the City of Melbourne it is probably not too surprising to learn that they been monitoring pedestrian activity within their council since at least 2009 through their Pedestrian Counting System. The aims of the Pedestrian Counting System, as stated by the City of Melbourne are to:
 - inform decisions about urban planning and management
