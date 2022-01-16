@@ -44,22 +44,22 @@ Please run the code in the following order.
  
 ### Step 1: Modify the "api_keys_tokens.py" file in the *Hypotheses 3 and 4* folder
 Update the variables **MyAppToken** and **google_key** by following the instructions below.
-Insert your Google Maps API key in here in the `google_key` variable.
+- Insert your Google Maps API key in here in the `google_key` variable.
 
-If you require instructions for setting up a Google Maps API key, please watch this [video](https://www.youtube.com/watch?v=2_HZObVbe-g&t=10s) or read this [documentation](https://developers.google.com/maps/documentation/javascript/get-api-key).
-Insert your app token provided to you by the City of Melbourne here in the `MyAppToken` variable.
+- If you require instructions for setting up a Google Maps API key, please watch this [video](https://www.youtube.com/watch?v=2_HZObVbe-g&t=10s) or read this [documentation](https://developers.google.com/maps/documentation/javascript/get-api-key).
+- Insert your app token provided to you by the City of Melbourne here in the `MyAppToken` variable.
 
-If this is your first time using any of the City of Melbourne APIs, please follow the following instructions for obtaining an App Token.
+- If this is your first time using any of the City of Melbourne APIs, please follow the following instructions for obtaining an App Token.
 
-1) Visit this [website](https://data.melbourne.vic.gov.au/signup) and sign up to create an account.
+  1) Visit this [website](https://data.melbourne.vic.gov.au/signup) and sign up to create an account.
 
-2) Visit this [link](https://data.melbourne.vic.gov.au/login) to sign in (if necessary).
+  2) Visit this [link](https://data.melbourne.vic.gov.au/login) to sign in (if necessary).
 
-3) Go to this [link](https://data.melbourne.vic.gov.au/profile/edit/developer_settings) and click **Create New App Token**.
+  3) Go to this [link](https://data.melbourne.vic.gov.au/profile/edit/developer_settings) and click **Create New App Token**.
 
-![alt text](Readme%20images/get%20app%20token.PNG "Create New App Token")
+    ![alt text](Readme%20images/get%20app%20token.PNG "Create New App Token")
 
-4) Copy your app token.
+  4) Copy your app token.
 
 ### Step 2: Go inside the *Hypothesis 1* folder
 
