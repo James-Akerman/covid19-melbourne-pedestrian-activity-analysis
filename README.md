@@ -28,6 +28,7 @@ From this base data, as well as data provided by labour force statistics from th
 
 - City of Melbourne,*Research shows CBD economy will bounce back*, City of Melbourne, accessed 16 September 2021 <https://www.melbourne.vic.gov.au/news-and-media/Pages/Research-shows-CBD-economy-will-bounce-back.aspx>
 
+<br>
 
 ## Tools/Packages Used
 - Pandas
@@ -36,6 +37,7 @@ From this base data, as well as data provided by labour force statistics from th
 - Gmaps
 - Sodapy
 
+<br>
 
 ## How to use
 Please run the code in the following order.
@@ -61,7 +63,7 @@ If this is your first time using any of the City of Melbourne APIs, please follo
 
 3) Go to this [link](https://data.melbourne.vic.gov.au/profile/edit/developer_settings) and click **Create New App Token**.
 
-![alt text](https://github.com/James-Akerman/project-one/blob/main/Readme%20images/get%20app%20token.PNG "Create New App Token")
+![alt text](blob/main/Readme%20images/get%20app%20token.PNG "Create New App Token")
 
 4) Copy your app token.
 
