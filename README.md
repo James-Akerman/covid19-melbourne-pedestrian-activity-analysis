@@ -31,7 +31,7 @@ From this base data, as well as data provided by labour force statistics from th
 
 <br>
 
-## Tools/Packages Used
+## Tools/Packages used
 - Pandas
 - Matplotlib
 - Scipy
